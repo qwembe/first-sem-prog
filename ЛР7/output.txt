@@ -1,0 +1,5 @@
+Team number 1 has 5 points
+Team number 4 has 5 points
+Team number 2 has 4 points
+Team number 5 has 4 points
+Team number 3 has 2 points
